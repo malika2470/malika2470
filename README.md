@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student at Wilfrid Laurier University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/RZ1Cq8RF_FwAAAAC/anime-crazy.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **malika2470@gmail.com**
 
