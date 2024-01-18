@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malika Sharma</h1>
+<h1 align="center">Hi, I'm Malika Sharma</h1>
 <h3 align="center">A computer science student at Wilfrid Laurier University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/RZ1Cq8RF_FwAAAAC/anime-crazy.gif">
 
