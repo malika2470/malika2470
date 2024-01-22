@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Malika Sharma</h1>
 <h3 align="center">A computer science student at Wilfrid Laurier University</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/RZ1Cq8RF_FwAAAAC/anime-crazy.gif">
-
+<img align="right" alt="Coding" width="400" src="[
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F478577897875142338%2F&psig=AOvVaw1RQIsMWWkFOdOaog6zMUG2&ust=1706052624438000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDC3LeT8oMDFQAAAAAdAAAAABAM)
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **malika2470@gmail.com**
