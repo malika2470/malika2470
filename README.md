@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Malika Sharma</h1>
 <h3 align="center">A computer science student at Wilfrid Laurier University</h3>
 
-<!-- GIF added below -->
-<img src="https://i.gifer.com/4Y8h.gif" width="480" height="428.444" alt="Typing GIF">
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **malika2470@gmail.com**
