@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Malika Sharma</h1>
-<h3 align="center">A computer science student at Wilfrid Laurier University</h3>
+<h3 align="center">Student at Wilfrid Laurier University</h3>
 
 - 🌱 I’m currently learning **React**
 
