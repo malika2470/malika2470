@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malika2470&label=Profile%20views&color=0e75b6&style=flat" alt="malika2470" /> </p>
 
-- 🌱 I’m currently learning **Go**
-
 - 📫 How to reach me **malika2470@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
