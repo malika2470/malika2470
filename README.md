@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malika</h1>
-<h3 align="center">Student at Wilfrid Laurier University</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malika2470&label=Profile%20views&color=0e75b6&style=flat" alt="malika2470" /> </p>
 
